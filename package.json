@@ -1,0 +1,26 @@
+{
+  "name": "prime-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to conevert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test\t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevSecPrime/prime-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Aryan Rana",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DevSecPrime/prime-currency-converter/issues"
+  },
+  "homepage": "https://github.com/DevSecPrime/prime-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
